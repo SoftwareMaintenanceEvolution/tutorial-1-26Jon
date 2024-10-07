@@ -11,4 +11,4 @@ I'm excited to join the Software Maintenance and Evolution course because it wil
 - Learn how to tackle technical debt, ensuring that the software remains maintainable and adaptable in the future.
 
 ## Github Profile
-Feel free to check out my github profile (
+[Feel free to check out my github profile](https://github.com/26Jon/26Jon)
