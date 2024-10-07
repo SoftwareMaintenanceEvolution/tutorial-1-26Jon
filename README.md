@@ -9,3 +9,6 @@ I'm excited to join the Software Maintenance and Evolution course because it wil
 - Develop skills in managing legacy systems, analyzing the impact of changes, and applying industry best practices for software evolution.
 - Enhance my knowledge of version control, configuration management, and release management for maintaining robust and scalable software.
 - Learn how to tackle technical debt, ensuring that the software remains maintainable and adaptable in the future.
+
+## Github Profile
+Feel free to check out my github profile (
